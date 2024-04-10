@@ -1,0 +1,15 @@
+.bg-primary{
+    background-color: blue !important;
+}
+.text-primary{
+    color: blue !important;
+}
+a{
+    color: rgb(50, 138, 211) !important;
+}
+a:hover{
+    color: rgb(154, 154, 231) !important;
+}
+.social-icon:hover{
+    background-color: rgb(154, 154, 231) !important;
+}
